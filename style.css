@@ -1,0 +1,47 @@
+<style> 
+        p {
+            text-align: center;        
+        }
+        div.big {
+            font-size: 20px;
+        }
+        div.body {
+            font-size: 15px;
+        }
+        div.small {
+            font-size: 10px;
+        }
+        span {
+            font-style:italic;
+        }
+        li {  
+            color:black;
+        }
+        .zero {
+            color: violet;
+            display: inline-block;
+            width: 25%;
+        }
+        .menu:hover {
+            background-color: ghostwhite;
+        }
+        ul li {
+            color:violet;
+        }
+        .add:hover {
+            background-color: ghostwhite
+        }
+        a {
+            color: black        }
+        .linked:hover {
+            background-color: ghostwhite
+        }
+        #first {
+            color:darkslategrey
+       }
+       @media screen and (max-width: 800px) {
+        body {
+          background-color:bisque;
+        }
+      }
+</style>
